@@ -1,0 +1,5 @@
+{
+  "bits": 2048,
+  "e": 65537,
+  "flaw": "none (properly generated RSA-2048)"
+}
